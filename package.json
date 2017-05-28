@@ -1,0 +1,15 @@
+{
+  "name": "gebf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gebf",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msv2017/gebf.git"
+  },
+  "author": "Sergii M.",
+  "license": "ISC"
+}
