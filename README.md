@@ -6,7 +6,7 @@ In a nutshell, it is a brute-force generator with predefined grammar that produc
 
 ## Installation
 
-  npm install gebf
+	npm install gebf
 
 ## Usage
 
