@@ -23,7 +23,7 @@ One need a test function, points and results as follows:
 And call the method:
 
 	var gebf = require('gebf');
-	var result = gebf(lang, testFuncc, testPoints, testResults);
+	var result = gebf(lang, testFunc, testPoints, testResults);
 
 Note that at this point `gebf` supports only one-argument test functions.
 
